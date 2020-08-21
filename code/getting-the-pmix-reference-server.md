@@ -69,7 +69,7 @@ availability, and you may find it necessary to download and build it yourself.
 
 Supported versions are shown below. For convenience, we include a link to the project’s web site in case you need (or choose) to install it directly:
 
- - [libevent](https://https//libevent.org) – version 2.0.21, 2.0.22, or 2.1.8
+ - [libevent](https://libevent.org) – version 2.0.21, 2.0.22, or 2.1.8
  - [hwloc](https://www.open-mpi.org/projects/hwloc/) – version 2.0.1 or 1.11.x
  - [PMIx](https://github.com/pmix/pmix/) – version 2.1.1 or later (github
    master recommended)
